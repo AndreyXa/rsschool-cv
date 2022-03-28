@@ -1,11 +1,11 @@
 # rsschool-cv
 ### **Andrei Brutski**
-#### **Contact
+#### **Contact**
 
 * Location: Minsk, Belarus
 * Email: brutskiy.andrey228@gmail.com
 
-#### **Skills
+#### **Skills**
 
 * HTML
 * CSS
